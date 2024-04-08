@@ -1,0 +1,10 @@
+# settings variables
+test/settings/
+
+# venv packages
+venv/bin
+venv/include
+venv/lib
+
+# mac settings file
+.DS_Store
